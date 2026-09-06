@@ -1,0 +1,93 @@
+doi,authors,year,title,theme
+10.1193/1.2191017,Comerio,2006,Estimating Downtime in Loss Modeling,measurement
+10.1193/1.3477993,Comerio & Stallmeyer,2010,Estimating Downtime from Data on Residential Buildings after the Northridge and Loma Prieta Earthquakes,measurement
+10.1080/10511482.2011.624528,Flanagan et al.,2012,Mapping Social Vulnerability to Enhance Housing and Neighborhood Resilience,measurement
+10.1111/j.1467-8667.2012.00787.x,Nejat & Damnjanovic,2012,Agent-Based Modeling of Behavioral Housing Recovery Following Disasters,measurement
+10.5751/ES-05427-180313,Nguyen et al.,2013,Measuring Household Resilience to Floods: Vietnamese Mekong River Delta,measurement
+10.1061/(ASCE)NH.1527-6996.0000223,Nejat et al.,2016,LASSO Model of Postdisaster Housing Recovery: Hurricane Sandy,measurement
+10.5194/nhess-17-77-2017,Keating et al.,2017,Development and Testing of a Community Flood Resilience Measurement Tool,measurement
+10.1193/040916EQS057M,Burton et al.,2017,Measuring the Impact of Enhanced Building Performance on the Seismic Resilience of a Residential Community,measurement
+10.1080/23789689.2017.1364561,Miles et al.,2018,An Interdisciplinary System Dynamics Model for Post-Disaster Housing Recovery,measurement
+10.1193/041017EQS067M,Burton et al.,2018,Integrating PBEE and Urban Simulation to Model Post-Earthquake Housing Recovery,measurement
+10.1016/j.ijdrr.2019.101257,Keating et al.,2019,First Insights from the Flood Resilience Measurement Tool,measurement
+10.1080/23789689.2019.1681821,Rosenheim et al.,2019,Detailed Household and Housing-Unit Characteristics: Data and Replicates for Hazard Modeling,measurement
+10.18564/jasss.4445,Abramson et al.,2020,RecovUS: An Agent-Based Model of Post-Disaster Household Recovery,measurement
+10.1111/risa.13576,Sutley & Hamideh,2020,Postdisaster Housing Stages: A Markov Chain Approach to Model Sequences and Duration Based on Social Vulnerability,measurement
+10.1177/8755293020944175,Moatazedi et al.,2021,Agent-Based Model for Post-Earthquake Housing Recovery,measurement
+10.1016/j.ijdrr.2021.102259,Wang & van de Lindt,2021,Quantitative Modeling of Residential Building Disaster Recovery and Effects of Pre- and Post-Event Policies,measurement
+10.1016/j.engstruct.2021.113800,Do & van de Lindt,2022,Functionality Measures for Quantification of Building Seismic Resilience Index,measurement
+10.1016/j.ijdrr.2025.105297,unknown,2025,A Practical Framework for Ensuring Resilient Housing Infrastructure in Flood-Prone Areas,measurement
+10.1080/01944360903294556,Zhang & Peacock,2010,Planning for Housing Recovery? Lessons Learned from Hurricane Andrew,longitudinal
+10.1111/j.1467-7717.2012.01305.x,Rathfon et al.,2013,"Quantitative Assessment of Post-Disaster Housing Recovery: A Case Study of Punta Gorda, Florida, after Hurricane Charley",longitudinal
+10.1111/ssqu.12114,Fussell & Harris,2014,Homeownership and Housing Displacement after Hurricane Katrina among Low-Income African-American Mothers in New Orleans,longitudinal
+10.1080/01944363.2014.980440,Peacock et al.,2014,Inequities in Long-Term Housing Recovery After Disasters,longitudinal
+10.1136/bmjopen-2018-026354,Sekiguchi et al.,2019,Moving from Prefabricated Temporary Housing to Public Reconstruction Housing and Social Isolation after the Great East Japan Earthquake,longitudinal
+10.1016/j.ijdrr.2021.102149,Hamideh et al.,2021,Housing Type Matters for Pace of Recovery: Evidence from Hurricane Ike,longitudinal
+10.1175/WCAS-D-21-0057.1,Merdjanoff et al.,2022,"Disasters, Displacement, and Housing Instability: Estimating Time to Stable Housing 13 Years after Hurricane Katrina",longitudinal
+10.1111/risa.14224,Best et al.,2023,Rent Affordability after Hurricanes: Longitudinal Evidence from US Coastal States,longitudinal
+10.1016/j.habitatint.2006.08.003,Davidson et al.,2007,Truths and Myths about Community Participation in Post-Disaster Housing Projects,community-restoration
+10.1016/j.habitatint.2007.06.003,Lizarralde & Massyn,2008,Unexpected Negative Outcomes of Community Participation in Low-Cost Housing Projects in South Africa,community-restoration
+10.1080/01944360802546254,Ganapati & Ganapati,2009,Enabling Participatory Planning after Disasters: A Case Study of the World Bank's Housing Reconstruction in Turkey,community-restoration
+,Welsh & Esnard,2009,Closing Gaps in Local Housing Recovery Planning for Disadvantaged Displaced Households,community-restoration
+10.1016/j.habitatint.2013.05.004,Tafti & Tomlinson,2013,The Role of Post-Disaster Public Policy Responses in Housing Recovery of Tenants,community-restoration
+10.1016/j.asej.2015.04.008,Khalifa,2015,Evolution of Informal Settlements Upgrading Strategies in Egypt: From Negligence to Participatory Development,community-restoration
+10.3390/ijerph13050507,Muñoz & Tate,2016,Unequal Recovery? Federal Resource Distribution after a Midwest Flood Disaster,community-restoration
+10.3390/buildings7020029,Bilau et al.,2017,Analysis of Measures for Managing Issues in Post-Disaster Housing Reconstruction,community-restoration
+10.1007/s10901-016-9523-4,Brown-Luthango et al.,2017,"Informal Settlement Upgrading and Safety: Experiences from Cape Town, South Africa",community-restoration
+10.3390/ijerph14040342,Corburn et al.,2017,Slum Upgrading and Health Equity,community-restoration
+10.1111/disa.12397,Harriss et al.,2019,Building Safety in Humanitarian Programmes that Support Post-Disaster Shelter Self-Recovery: An Evidence Review,community-restoration
+10.1111/disa.12405,Opdyke et al.,2019,Assessing the Impact of Household Participation on Satisfaction and Safe Design in Humanitarian Shelter Projects,community-restoration
+10.5871/jba/007s2.083,Schofield et al.,2019,Barriers to Urban Shelter Self-Recovery in Philippines and Nepal: Lessons for Humanitarian Policy and Practice,community-restoration
+10.1016/j.oneear.2019.09.008,Siders,2019,Managed Retreat in the United States,community-restoration
+10.54825/MOVK2096,Algoed & Hernández Torrales,2019,The Land Is Ours: Vulnerabilization and Resistance in Informal Settlements in Puerto Rico — Caño Martín Peña CLT,community-restoration
+10.7227/JHA.032,Flinn,2020,Defining 'Better' Better: Why Building Back Better Means More than Structural Safety,community-restoration
+10.1016/j.habitatint.2019.102108,Basile & Ehlenz,2020,Examining Responses to Informality in the Global South: A Framework for Community Land Trusts and Informal Settlements,community-restoration
+10.1016/j.cities.2020.102791,Núñez Collado & Wang,2020,Slum Upgrading and Climate Change Adaptation and Mitigation: Lessons from Latin America,community-restoration
+10.3390/buildings11040145,Capell & Ahmed,2021,Improving Post-Disaster Housing Reconstruction Outcomes in the Global South: A Framework for Effective Community Consultation,community-restoration
+10.1080/19463138.2021.1958336,Denaldi & Cardoso,2021,Slum Upgrading beyond Incubation: Exploring the Dilemmas of Nation-Wide Large Scale Policy Interventions in Brazil (PAC),community-restoration
+10.1007/s13412-021-00691-4,Dundon & Camp,2021,Climate Justice and Home-Buyout Programs: Renters as a Forgotten Population in Managed Retreat Actions,community-restoration
+10.3390/architecture2020024,Ahmed & Parrack,2022,Shelter Self-Recovery: The Experience of Vanuatu,community-restoration
+10.1016/j.gloenvcha.2022.102576,Ajibade et al.,2022,"Are Managed Retreat Programs Successful and Just? A Global Mapping of Success Typologies, Justice Dimensions, and Trade-Offs",community-restoration
+10.1080/19463138.2022.2096616,Veronesi et al.,2022,"Community-Led Development and Collective Land Tenure for Environmental Justice: The Caño Martín Peña CLT, Puerto Rico",community-restoration
+10.3390/su14095623,Hofmann,2022,Build Back Better and Long-Term Housing Recovery: Assessing Community Housing Resilience and the Role of Insurance Post Disaster,community-restoration
+10.3390/su14158985,Du et al.,2022,A Framework for Assessing the Climate Resilience of Informal Settlements in Southeast Asian Cities,community-restoration
+10.1016/j.habitatint.2024.103196,Halvorsen,2024,Slum Upgrading and Participation: Insights from a Marginalized Neighbourhood in Buenos Aires,community-restoration
+10.3390/land14030485,García & Martínez-Román,2025,"Participatory Land Planning, Community Land Trusts, and Managed Retreat: Transforming Informality and Building Resilience to Flood Risk in Puerto Rico",community-restoration
+10.1016/j.ijdrr.2026.106098,Opdyke et al.,2026,Navigating Relief to Recovery in Humanitarian Shelter and Settlements,community-restoration
+10.1177/0583102406061499,Lynch & Loh,2006,A Summary Review of Wireless Sensors and Sensor Networks for Structural Health Monitoring,technology-infrastructure
+10.1109/MIC.2006.38,Chintalapudi et al.,2006,Monitoring Civil Structures with a Wireless Sensor Network,technology-infrastructure
+10.3182/20100908-3-PT-3007.00084,Severino et al.,2010,A Wireless Sensor Network Platform for Structural Health Monitoring,technology-infrastructure
+10.1016/j.maturitas.2011.03.016,Ding et al.,2011,Sensor Technology for Smart Homes,technology-infrastructure
+10.1016/j.enbuild.2017.08.004,Ascione et al.,2017,"Resilience of Robust Cost-Optimal Energy Retrofit of Buildings to Global Warming: A Multi-Stage, Multi-Objective Approach",technology-infrastructure
+10.5942/jawwa.2017.109.0005,Wallis-Lage,2017,Deferred Maintenance and Aging Infrastructure Threaten Resilience,technology-infrastructure
+10.1177/1475921717750047,Cawley,2018,Structural Health Monitoring: Closing the Gap between Research and Industrial Deployment,technology-infrastructure
+10.1007/s11524-018-0280-4,Hernández et al.,2018,Public Housing on the Periphery: Vulnerable Residents and Depleted Resilience Reserves Post-Hurricane Sandy,technology-infrastructure
+10.3389/fpsyg.2020.00335,Kim et al.,2020,Developing Design Solutions for Smart Homes Through User-Centered Scenarios,technology-infrastructure
+10.3390/su122410388,Perrucci & Baroud,2020,"A Review of Temporary Housing Management Modeling: Trends in Design Strategies, Optimization Models, and Decision-Making",technology-infrastructure
+10.3390/su13169363,Pertile et al.,2021,Seismic and Energy Integrated Retrofitting of Existing Buildings: A Critical Review,technology-infrastructure
+10.1016/j.ymssp.2021.108113,Sofi et al.,2022,Structural Health Monitoring using Wireless Smart Sensor Network: An Overview,technology-infrastructure
+10.1016/j.jobe.2022.105274,Pohoryles et al.,2022,Integrated Seismic and Energy Retrofitting of Existing Buildings: A State-of-the-Art Review,technology-infrastructure
+10.1016/j.buildenv.2023.110806,Hong et al.,2023,Ten Questions Concerning Thermal Resilience of Buildings and Occupants for Climate Adaptation,technology-infrastructure
+10.1016/j.rcns.2023.07.004,van de Lindt et al.,2023,The Interdependent Networked Community Resilience Modeling Environment (IN-CORE),technology-infrastructure
+10.1080/09613218.2023.2225111,Adeyeye,2024,From Product to Service: Strategies for Upscaling Smart Home Performance Monitoring,technology-infrastructure
+10.1080/08882746.2024.2386480,Walker et al.,2024,Indoor Environment Sensor Systems for Healthier Homes: A Feasibility Study in Social Housing,technology-infrastructure
+10.1016/j.apenergy.2024.123051,Kuang et al.,2024,"Household Energy Resilience in Extreme Weather Events: Energy Service Importance, HVAC Usage, and Willingness to Pay",technology-infrastructure
+10.1038/s41560-025-01822-9,Sun et al.,2025,Solar and Batteries Are Affordable Options for US Households,technology-infrastructure
+10.1038/s41560-025-01821-w,Sun et al.,2025,Solar and Battery Can Reduce Energy Costs and Provide Affordable Outage Backup for US Households,technology-infrastructure
+10.1061/JSENDH.STENG-13222,Nofal et al.,2025,Methodology for Interdependent Population-Building-Infrastructure Posthazard Functionality Assessment for Communities,technology-infrastructure
+10.6028/NIST.SP.1190v1,McAllister,2015,"Community Resilience Planning Guide for Buildings and Infrastructure Systems, Volume I (NIST SP 1190v1)",technology-infrastructure
+10.1038/nclimate3252,Hino et al.,2017,Managed Retreat as a Response to Natural Hazard Risk,community-restoration
+10.1007/s10584-018-2272-5,Siders,2019,Social Justice Implications of US Managed Retreat Buyout Programs,community-restoration
+10.1126/science.aax8346,Siders et al.,2019,The Case for Strategic and Managed Climate Retreat,community-restoration
+10.1126/sciadv.aax8995,Mach et al.,2019,Managed Retreat through Voluntary Buyouts of Flood-Prone Properties,community-restoration
+10.1126/science.abh1894,Mach & Siders,2021,"Reframing Strategic, Managed Retreat for Transformative Climate Adaptation",community-restoration
+10.1016/j.cosust.2021.06.007,Siders et al.,2021,Transformative Potential of Managed Retreat as Climate Adaptation,community-restoration
+10.1016/j.landusepol.2021.105960,Tubridy et al.,2022,Managed Retreat and Coastal Climate Change Adaptation: Environmental Justice Implications and Value of a Place-Based Approach,community-restoration
+10.1098/rstb.2021.0129,O'Donnell,2022,Managed Retreat and Planned Retreat: A Systematic Literature Review,community-restoration
+10.1007/s11069-015-2060-8,Tate et al.,2016,"Flood Recovery and Property Acquisition in Cedar Rapids, Iowa",longitudinal
+10.3390/su13168754,Seong et al.,2021,To Rebuild or Relocate: Long-Term Mobility Decisions of Hazard Mitigation Grant Program (HMGP) Recipients,longitudinal
+10.1088/1748-9326/ac5140,Drakes & Tate,2022,Social Vulnerability in a Multi-Hazard Context: A Systematic Review,measurement
+10.1177/2378023120905439,Elliott et al.,2020,Racial Inequities in the Federal Buyout of Flood-Prone Homes: A Nationwide Assessment of Environmental Justice,community-restoration
+10.2139/ssrn.5413197,Rashid & Sutley,2026,Managed Retreat in the Face of Sea Level Rise: A Multi-Dimensional Framework for Climate Resilience,community-restoration
+10.54783/ijsoc.v5i4.849,Qadriina et al.,2023,The Role of Social Capital in the Response and Recovery Process of Post-Disaster Affected Communities,community-restoration
+10.1080/17477891.2018.1511404,Binder et al.,2019,Home Buyouts and Household Recovery: Neighborhood Differences Three Years After Hurricane Sandy,longitudinal

@@ -18,7 +18,7 @@ This review targets **peer-reviewed journal articles (2006–present)** that mee
 - **Housing resilience as a central focus**: housing recovery, displacement duration, transitions across temporary/permanent housing, or housing affordability/availability as a recovery pathway.
 - **Interdisciplinary**: explicitly cross-field teams (e.g., engineering + planning + geography), or mixed-method/combined constructs where interdisciplinarity is defensible by inference.
 
-The initial corpus was built from open-web discovery because subscription database exports were not available for this pass. Where full text was unavailable, the report uses verified bibliographic metadata and cautious method-level descriptions rather than treating the record as fully reviewed.
+The corpus was assembled through open-web discovery rather than a database-native systematic search. Where full text was unavailable, the report uses verified bibliographic metadata and cautious method-level descriptions rather than treating the record as fully reviewed.
 
 ## Comparative evidence map
 

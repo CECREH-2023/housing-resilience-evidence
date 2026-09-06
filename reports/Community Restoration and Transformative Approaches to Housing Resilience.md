@@ -10,9 +10,9 @@ The evidence base is methodologically diverse (comparative case studies, qualita
 
 ## Scope and selection method
 
-The requested window is interpreted as **2006–2026**. In practice, the verified scholarly set assembled here spans **2007–2026**, prioritizing peer-reviewed articles and closely related scholarly records whose central focus includes **housing recovery/reconstruction**, **housing tenure/land**, **settlement upgrading**, **managed retreat/buyouts**, or **housing system resilience**, and that make a substantive claim about **community restoration** (return, reconstitution of social life, reintegration) or **transformation** (changes in governance, land/tenure regimes, planning logics, or justice outcomes).
+The review considers scholarship from **2006–2026**. The included records span **2007–2026**, prioritizing peer-reviewed articles and closely related scholarly records whose central focus includes **housing recovery/reconstruction**, **housing tenure/land**, **settlement upgrading**, **managed retreat/buyouts**, or **housing system resilience**, and that make a substantive claim about **community restoration** (return, reconstitution of social life, reintegration) or **transformation** (changes in governance, land/tenure regimes, planning logics, or justice outcomes).
 
-The initial corpus was built from open-web discovery because subscription database exports were not available for this pass. The corpus uses publisher pages and platform records for peer-reviewed articles, open repositories for eligible content, and journal open-access portals or institutional repositories hosting author-licensed versions. Each included paper is supported by at least one source containing bibliographic metadata and/or abstract text.
+The corpus was assembled through open-web discovery rather than a database-native systematic search. The corpus uses publisher pages and platform records for peer-reviewed articles, open repositories for eligible content, and journal open-access portals or institutional repositories hosting author-licensed versions. Each included paper is supported by at least one source containing bibliographic metadata and/or abstract text.
 
 ## Thematic synthesis
 
@@ -22,7 +22,7 @@ A key cross‑theme analytic point is that housing resilience repeatedly appears
 
 ## Annotated bibliography organized by themes
 
-Formatting note: Each entry provides (i) full bibliographic details, (ii) an abstract‑based 2–3 sentence summary, and (iii) analytic fields requested (keywords, geography, methods, frameworks, findings, and the “reimagining” contribution). “OA” indicates open‑access availability on the cited source page.
+Each entry provides (i) full bibliographic details, (ii) an abstract‑based 2–3 sentence summary, and (iii) analytic fields (keywords, geography, methods, frameworks, findings, and the “reimagining” contribution). “OA” indicates open‑access availability on the cited source page.
 
 ### Theme cluster on participatory governance and program design in housing recovery
 

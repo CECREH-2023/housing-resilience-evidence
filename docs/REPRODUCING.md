@@ -1,34 +1,13 @@
-# Reproduction guide
+# Using this resource
 
 Four original synthesis reports and cleaned bibliography prepared.
 
-## Verify the distribution
-
-From the package root:
-
-```bash
-python scripts/check_package.py
-python scripts/check_inputs.py
-```
-
-The first command verifies the shipped files and hashes. The second checks whether separately acquired inputs are present and exits with code 2 when they are missing. Neither command estimates a statistical model.
-
-## Run the selected workflow
-
 No computational reproduction is required. Publisher PDFs, full-text acquisitions, and download logs are omitted. Bibliographic metadata remain in data/bibliography.csv.
 
-Use a disposable working copy when running the original analysis: several original scripts overwrite their project-relative output locations. Keep the distributed reference snapshot for comparison.
+Browse the [four reports](../reports/) and [bibliographic index](../data/bibliography.csv). The collection is a thematic literature resource; its bibliographic records are not a claim that each full text has been independently reverified for this repository version.
 
-Environment: `See docs/SOFTWARE.md and the dependencies imported by the chosen source modules.`
+## Verification scope
 
-Browse the reports and data/bibliography.csv; no statistical reproduction is claimed.
+`python scripts/check_package.py` checks the distributed file hashes. It uses only the Python standard library and does not fit a model. Run it before generating outputs; new files outside the designated generated-results directory may be reported as extras.
 
-## Input contract
-
-Required paths are listed in [data/INPUTS.json](../data/INPUTS.json). Original synthesis reports and cleaned bibliographic metadata are released. Publisher PDFs, copied article text, and acquisition logs are excluded.
-
-[Source guide](CODE_MAP.md) identifies additional acquisition, sensitivity, and rendering modules. Original modeling and uncertainty procedures are retained. Use the documented input definitions; undocumented data substitutions can change the analysis.
-
-## Evidence
-
-[VALIDATION.json](../VALIDATION.json) records the checks performed on this snapshot. A partial model run or a fictional demo is identified by its limited scope. Full reproduction is claimed only where that record explicitly supports it.
+[VALIDATION.json](../VALIDATION.json) records the checks performed for this version and their limits. Inclusion of an analysis module is not evidence that it has been executed. The [source guide](CODE_MAP.md) identifies the distributed modules.

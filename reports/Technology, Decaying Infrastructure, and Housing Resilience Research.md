@@ -11,7 +11,7 @@ Because “housing resilience” is studied across many disciplines (civil engin
 
 ## Search strategy and inclusion criteria
 
-This is a **structured, bounded open-web scan** conducted on **April 4, 2026** (America/Chicago). Full reproducible queries inside subscription bibliographic databases (e.g., **Web of Science** or **Scopus**) were not available for this pass, so the dataset should be treated as a **high-relevance curated corpus** rather than a guaranteed “all papers” census.
+This is a **structured, bounded open-web scan** conducted on **April 4, 2026** (America/Chicago). The search did not use subscription-database exports, so the dataset represents a **high-relevance curated corpus** rather than a guaranteed “all papers” census.
 
 **Sources searched (open web equivalents and primary/official pages):**
 - Publisher platforms and DOI landing pages where accessible (e.g., ScienceDirect/Elsevier, Springer, Taylor & Francis pages).
@@ -186,7 +186,7 @@ McAllister, T.P. (2015). *Community Resilience Planning Guide for Buildings and 
 
 ## Contextual planning and guidance sources outside the core manifest
 
-The following institutional reports and practice guidance are **not counted in the 22-item technology-infrastructure core corpus** because they are not currently represented as rows in `data/papers_master.csv`. They are retained only as contextual background for policy and practice implications. If they are used as primary evidence in a future manuscript version, they should first be added to the bibliography with theme, status, and source metadata.
+The following institutional reports and practice guidance are **not counted in the 22-item technology-infrastructure core corpus** because they are not currently represented as rows in [the released bibliography](../data/bibliography.csv). They are retained only as contextual background for policy and practice implications. They provide contextual guidance and are excluded from the core scholarly count.
 
 Finkel, M., et al. (2010). *Capital Needs in the Public Housing Program* (Revised Final Report). **HUD / Abt Associates**. Using a nationally representative physical inspection approach (548 properties across 140 housing authorities), this report defines and estimates backlog and accrual capital needs for public housing systems; its relevance is that housing resilience depends on maintaining mechanical/electrical/architectural systems in serviceable condition, and it provides background for linking degraded building systems and deferred maintenance to long-run fragility and potential disaster vulnerability.
 

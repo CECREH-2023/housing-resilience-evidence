@@ -12,4 +12,4 @@ Browse the thematic reports on measurement, longitudinal research, community tra
 
 Published scholarly literature and original research-team synthesis.
 
-No computational reproduction is required. Publisher PDFs, full-text acquisitions, and download logs are omitted. Bibliographic metadata remain in data/bibliography.csv.
+See [data availability](../data/README.md) for the release boundary and [the reproduction guide](REPRODUCING.md) for inputs, commands, and checks.

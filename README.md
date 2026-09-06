@@ -1,8 +1,6 @@
 # Housing Resilience Evidence Library
 
-What does the literature say about recovery measurement, longitudinal change, community transformation, and infrastructure?
-
-Four thematic evidence syntheses with a bibliographic index. The collection is a research resource, not a substitute for reading the cited studies.
+This collection contains four thematic syntheses of housing-resilience research, covering measurement, longitudinal recovery, community transformation, and technology and infrastructure. The bibliographic index contains 92 records: 40 community-restoration, 22 technology/infrastructure, 19 measurement, and 11 longitudinal records. The reports retain their original literature-search windows; the September documentation review is not a new systematic literature search.
 
 ## Results and interpretation
 
@@ -14,20 +12,18 @@ The reports distinguish building, household, and community scales and emphasize 
 
 - [Reports](reports/)
 - [Methods](docs/METHODS.md)
-- [Reproduction and dependencies](docs/REPRODUCING.md)
-- [Analysis source guide](docs/CODE_MAP.md)
+- [Using the resource](docs/REPRODUCING.md)
+- [Source guide](docs/CODE_MAP.md)
 - [Data sources and availability](data/README.md)
 
-## Reproduce the work
+## Use this resource
 
-**Available reproduction:** Four original synthesis reports and cleaned bibliography prepared.
+See [Using this resource](docs/REPRODUCING.md) for the document and template structure. No statistical software is needed to read the materials.
 
-Start with `python scripts/check_package.py` to check the file manifest, then follow the [reproduction guide](docs/REPRODUCING.md). A file-integrity check does not rerun the research analysis. Original synthesis reports and cleaned bibliographic metadata are released. Publisher PDFs, copied article text, and acquisition logs are excluded.
+**Scope:** Four original synthesis reports and cleaned bibliography prepared.
 
 ## Attribution and use
 
-The source collection is an authored evidence resource. Consult the cited studies when assessing individual literature claims.
+Maintained by [CECREH at Texas Tech University](https://www.depts.ttu.edu/cecreh/). Documentation reviewed September 6, 2026. Cite the repository version you used; see [citation guidance](CITATION.md).
 
-A research resource from [CECREH at Texas Tech University](https://www.depts.ttu.edu/cecreh/). Snapshot: September 6, 2026. For code citation, use the repository URL and the commit identifier for the version you used; see [citation guidance](CITATION.md).
-
-No additional reuse license is granted by this snapshot. Contact the authors through CECREH about permissions; source-data terms apply separately.
+No reuse license is specified for this repository. Contact CECREH about permissions; source-data terms apply separately.

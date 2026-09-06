@@ -26,7 +26,7 @@ Hazards represented in the core corpus include earthquakes, floods, hurricanes/c
 
 ### Search strategy
 
-The initial corpus was built from open-web discovery because subscription database exports were not available for this pass. Retrieval therefore relied on Google Scholar-style keyword searching, DOI-anchored validation on publisher pages (e.g., SAGE, Copernicus, ScienceDirect), and targeted snowballing through reference lists.
+The corpus was assembled through open-web discovery rather than a database-native systematic search. Retrieval therefore relied on Google Scholar-style keyword searching, DOI-anchored validation on publisher pages (e.g., SAGE, Copernicus, ScienceDirect), and targeted snowballing through reference lists.
 
 Keyword families (iteratively refined) included combinations of:
 - “housing resilience” + (measure OR index OR assessment OR quantification) 
